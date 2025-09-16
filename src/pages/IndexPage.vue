@@ -6,6 +6,7 @@
       :todos="todos"
       :meta="meta"
     ></example-component>
+    <div class="tw:text-xl">Hello Tailwind + Quasar</div>
   </q-page>
 </template>
 
